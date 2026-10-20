@@ -1,0 +1,4 @@
+interface:
+  display_name: "访谈纪要生成器"
+  short_description: "将逐字稿或本地音频转写并整理为完整、详细、可回溯的访谈纪要"
+  default_prompt: "Use $interview-minutes-generator to transcribe this interview audio or turn the provided transcript into detailed, source-faithful interview minutes."
